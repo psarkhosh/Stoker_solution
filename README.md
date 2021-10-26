@@ -8,4 +8,8 @@
 <!-- badges: end -->
 
 # Stoker_solution
-Stoker (1957) analytical solution for ideal dam-break problems 
+The classical dam-break problem in a rectangular prismatic channel in the absence of the source terms is recognized as the "Reimann problem" (Toro 2001). Ritter (1982) and Stoker (1957) pioneered analytical solutions to solve Saint-Venant, also known as one-dimensional shallow water, equations for the ideal dam-break problem over horizontal dry and wet beds, respectively. These solutions are widely applied as the benchmarks for validating numerical schemes to understand the model's capability to deal with continuous and discontinuous waves (Castro and Hager, 2019). For convenience, a computer code in MATLAB, titled Stoker_solution, has been developed. This source code is straightforward to simulate ideal dam-break problems over dry- and wet-beds.
+
+# References
+- fjfjfjjf
+- jdjdjdjjd
