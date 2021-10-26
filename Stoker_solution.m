@@ -133,7 +133,7 @@ for k=1:m
         set(gca,'FontSize',14)
         
         Time=Time+0.0001;
-        title({"Analytical solution (Stoker, 1957) for ideal dam-break problem"
+        title({"Stoker's (1957) solution for ideal dam-break problem"
             ['t = ',num2str(Time,'%.2f'),' s']},'FontSize',15)
         Time=Time-0.0001;
         hold off
