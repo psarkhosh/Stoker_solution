@@ -21,7 +21,7 @@ Lr = input('   reservoir length:               Lr (m) >> ');
 T = input('   total simulation time            T (s) >> ');
 
 n=2000;             %Number of spaceintervals
-m=T*200;            %Number of time intervals
+m=T*100;            %Number of time intervals
 
 %**************************************************************************
 dx=Lc/n;            %space step
