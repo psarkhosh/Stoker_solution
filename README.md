@@ -20,3 +20,12 @@ The classical dam-break problem in a rectangular prismatic channel in the absenc
 - Ritter, A. (1892). Die Fortpflanzung von Wasserwellen [Propagation of water waves]. Zeitschrift Verein Deutscher Ingenieure, 36(2), 947–954 (in German).
 - Stoker, J. J. (1957). Water waves: The mathematical theories with applications. New York: Wiley.
 - Toro, E.F. (2001). Shock-capturing methods for free-surface shallow flows. Wiley-Blackwell.
+
+# License 
+This project is licensed under the GPL-3 License - see the LICENSE.md file for more details.
+
+If using these scripts in your data analyses pipelines, please cite as:
+
+**Sarkhosh, Payam. (2021). Stoker solution package (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5598374**
+
+
