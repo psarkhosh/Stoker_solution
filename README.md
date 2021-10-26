@@ -4,6 +4,7 @@
 [![](https://img.shields.io/github/last-commit/psarkhosh/Stoker_solution.svg)](https://github.com/psarkhosh/Stoker_solution/commits/main)
 [![License: GPL (&gt;=
 3)](https://img.shields.io/badge/license-GPL%20(%3E=%203)-blue.svg)](https://cran.r-project.org/web/licenses/GPL%20(%3E=%203))
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5598374.svg)](https://doi.org/10.5281/zenodo.5598374)
 <!-- badges: end -->
 
 # Stoker_solution
