@@ -22,7 +22,7 @@ The classical dam-break problem in a rectangular prismatic channel in the absenc
 - Toro, E.F. (2001). Shock-capturing methods for free-surface shallow flows. Wiley-Blackwell.
 
 # License 
-This project is licensed under the GPL-3 License - see the LICENSE.md file for more details.
+This project is licensed under the GPL-3.0 License - see the LICENSE.md file for more details.
 
 If using these scripts in your data analyses pipelines, please cite as:
 
