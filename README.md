@@ -26,6 +26,6 @@ This project is licensed under the GPL-3.0 License - see the LICENSE.md file for
 
 If using these scripts in your data analyses pipelines, please cite as:
 
-**Sarkhosh, Payam. (2021). Stoker solution package (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5598374**
+**Sarkhosh, P. (2021). Stoker solution package (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5598374**
 
 
